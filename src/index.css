@@ -65,6 +65,19 @@ a{
     background-color: var(--black-color);
     cursor: pointer;
 }
+.btn2 {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  btn2:hover {
+    background-color: #45a049;
+  }
 .btn3{
     display: inline-block;
     padding: 1.7rem 3.75rem;
@@ -81,6 +94,8 @@ a{
     opacity: 0.8;
 }
 
+  
+ 
 .btn:hover{
     opacity: 0.8;
 }
@@ -824,6 +839,7 @@ a{
     padding-top: 20px;}
   
 /* ------------------------------------------FOOTER SECTION */
+
 
 /* ------------------------------------------RESPONSIVE SECTION */
 @media (max-width: 991px){
